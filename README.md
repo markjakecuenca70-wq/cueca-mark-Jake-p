@@ -28,7 +28,7 @@
 
 <h2>My Hobbies</h2>
 
-<p>>My Hobbies are <i>playing</i> and <i>mobile games</i></p>
+<p>>My Hobbies are <i>playing chess</i> and <i>mobile games</i></p>
 
 <h2>My Goals</h2>
 
