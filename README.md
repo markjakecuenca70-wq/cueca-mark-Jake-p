@@ -18,7 +18,7 @@
 
 <hr>
 
-<h2>who am i</h2>
+<h2>Who am i</h2>
 
 <p>>I live in <b>Basak</b>, have <b>4 pet cat</b>, and <b>3 siblings</b>.<br>>I do chores in my free time and after I do them,<b>i play mobile games</b></p>
 
